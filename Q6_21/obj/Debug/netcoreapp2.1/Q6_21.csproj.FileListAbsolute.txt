@@ -1,0 +1,11 @@
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_21\bin\Debug\netcoreapp2.1\Q6_21.deps.json
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_21\bin\Debug\netcoreapp2.1\Q6_21.runtimeconfig.json
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_21\bin\Debug\netcoreapp2.1\Q6_21.runtimeconfig.dev.json
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_21\bin\Debug\netcoreapp2.1\Q6_21.dll
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_21\bin\Debug\netcoreapp2.1\Q6_21.pdb
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_21\obj\Debug\netcoreapp2.1\Q6_21.csprojAssemblyReference.cache
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_21\obj\Debug\netcoreapp2.1\Q6_21.csproj.CoreCompileInputs.cache
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_21\obj\Debug\netcoreapp2.1\Q6_21.AssemblyInfoInputs.cache
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_21\obj\Debug\netcoreapp2.1\Q6_21.AssemblyInfo.cs
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_21\obj\Debug\netcoreapp2.1\Q6_21.dll
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_21\obj\Debug\netcoreapp2.1\Q6_21.pdb
