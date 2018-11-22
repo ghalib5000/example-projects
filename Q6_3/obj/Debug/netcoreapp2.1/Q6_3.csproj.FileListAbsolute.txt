@@ -9,3 +9,14 @@ D:\New folder12\shortcut folders\Downloads\ass 2\assignment2\Q6_3\obj\Debug\netc
 D:\New folder12\shortcut folders\Downloads\ass 2\assignment2\Q6_3\obj\Debug\netcoreapp2.1\Q6_3.AssemblyInfo.cs
 D:\New folder12\shortcut folders\Downloads\ass 2\assignment2\Q6_3\obj\Debug\netcoreapp2.1\Q6_3.dll
 D:\New folder12\shortcut folders\Downloads\ass 2\assignment2\Q6_3\obj\Debug\netcoreapp2.1\Q6_3.pdb
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_3\bin\Debug\netcoreapp2.1\Q6_3.deps.json
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_3\bin\Debug\netcoreapp2.1\Q6_3.runtimeconfig.json
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_3\bin\Debug\netcoreapp2.1\Q6_3.runtimeconfig.dev.json
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_3\bin\Debug\netcoreapp2.1\Q6_3.dll
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_3\bin\Debug\netcoreapp2.1\Q6_3.pdb
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_3\obj\Debug\netcoreapp2.1\Q6_3.csprojAssemblyReference.cache
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_3\obj\Debug\netcoreapp2.1\Q6_3.csproj.CoreCompileInputs.cache
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_3\obj\Debug\netcoreapp2.1\Q6_3.AssemblyInfoInputs.cache
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_3\obj\Debug\netcoreapp2.1\Q6_3.AssemblyInfo.cs
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_3\obj\Debug\netcoreapp2.1\Q6_3.dll
+D:\projects\C# programs\gitprograms\examples\example-projects\Q6_3\obj\Debug\netcoreapp2.1\Q6_3.pdb

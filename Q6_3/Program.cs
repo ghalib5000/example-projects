@@ -26,7 +26,14 @@ namespace Q6_3
                     int[] nlist = arrayclass.newlist(nums);
                     while (p < numcount.Length)
                     {
-                        Console.WriteLine("{0} number occurs: {1}", nlist[p], numcount[p]);
+                if (numcount[p] == 1)
+                {
+                    Console.WriteLine("{0} number occurs: {1} time", nlist[p], numcount[p]);
+                }
+                else if(numcount[p] > 1)
+                {
+                    Console.WriteLine("{0} number occurs: {1} times", nlist[p], numcount[p]);
+                }
                         p++;
                     }
         }

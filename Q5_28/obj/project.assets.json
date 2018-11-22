@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder12\\shortcut folders\\Downloads\\ass 2\\assignment2\\Q5_28\\Q5_28.csproj",
+      "projectUniqueName": "D:\\projects\\C# programs\\gitprograms\\examples\\example-projects\\Q5_28\\Q5_28.csproj",
       "projectName": "Q5_28",
-      "projectPath": "D:\\New folder12\\shortcut folders\\Downloads\\ass 2\\assignment2\\Q5_28\\Q5_28.csproj",
+      "projectPath": "D:\\projects\\C# programs\\gitprograms\\examples\\example-projects\\Q5_28\\Q5_28.csproj",
       "packagesPath": "C:\\Users\\ghali\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder12\\shortcut folders\\Downloads\\ass 2\\assignment2\\Q5_28\\obj\\",
+      "outputPath": "D:\\projects\\C# programs\\gitprograms\\examples\\example-projects\\Q5_28\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
