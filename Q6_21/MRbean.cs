@@ -11,7 +11,7 @@ namespace Q6_21
             string slotlist = "";
             Random r = new Random();
             int n = 0;
-            while (n <= b)
+            while (n <= b-1)
             {
                 int rand = r.Next(0, 2);
                 if (rand == 0)
@@ -26,30 +26,19 @@ namespace Q6_21
             }
             return slotlist;
         }
-        public static int[] posfinder(string s)
+        public static int[] posfinder(string s)//string s here is LLLRRRLRL(similar to this)
         {
-            int[] slots = new int[s.Length];
+            int count=0;
+            int[] ballslot = new int[s.Length];
             for (int i=0;i<s.Length;i++)
             {
-                if (s[i] == 'L')
+                if (s[i] == 'R')
                 {
-                    slots[i] = 0;
-                }
-                else if (s[i] == 'R')
-                {
-                    slots[i] = 1;//THE NUMBER OF TIMES R APPEARS
+                    count++;//THE NUMBER OF TIMES R APPEARS(each increment increases it's position)
                 }
             }
-            return slots;
+            ballslot[count-1] = 1;
+            return ballslot;
         }
-       /* public static int[] finale(int[] ar)
-        {
-            int[] olist = new int[ar.Length];
-            for(int i=0;i<ar.Length;i++)
-            {
-
-            }
-        }*/
-        
     }
 }
