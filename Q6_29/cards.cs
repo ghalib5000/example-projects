@@ -16,6 +16,7 @@ namespace Q6_29
         {
             int card= 0;
             card = i;
+
             return card;
         }
         public static string numfind(int card)
