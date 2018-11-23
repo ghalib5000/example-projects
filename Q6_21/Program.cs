@@ -46,6 +46,9 @@ namespace Q6_21
                 Console.WriteLine("");
                 st--;
             }
+            for (int e = 1; e <= no_of_slots; e++)
+                Console.Write(e);
+            Console.WriteLine("");
         }
     }
 }
