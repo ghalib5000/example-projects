@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Q7_17
 {
-    class bank
+    class bank 
     {
         public static double totalass(int banknum,double[,] bor,int[] bankn)
         {
