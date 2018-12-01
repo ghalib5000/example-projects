@@ -8,3 +8,4 @@ D:\projects\C# programs\gitprograms\examples\example-projects\Q7_19\obj\Debug\ne
 D:\projects\C# programs\gitprograms\examples\example-projects\Q7_19\obj\Debug\netcoreapp2.1\Q7_19.AssemblyInfo.cs
 D:\projects\C# programs\gitprograms\examples\example-projects\Q7_19\obj\Debug\netcoreapp2.1\Q7_19.dll
 D:\projects\C# programs\gitprograms\examples\example-projects\Q7_19\obj\Debug\netcoreapp2.1\Q7_19.pdb
+D:\projects\C# programs\gitprograms\examples\example-projects\Q7_19\obj\Debug\netcoreapp2.1\Q7_19.csprojAssemblyReference.cache
