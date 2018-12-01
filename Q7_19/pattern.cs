@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Q7_19
 {
-    class pattern
+  class pattern
     {
-        public static int randnum(int row, int col)
+         static int randnum(int row, int col)
         {
             Random r = new Random();
             int rand = r.Next(0, 9);
