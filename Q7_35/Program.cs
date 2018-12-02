@@ -7,12 +7,12 @@ namespace Q7_35
         static void Main(string[] args)
         {
             int[] ans = new int[3];
-            int row = 5,n=0 ;
-         /*   Console.Write("Enter number of rows in the matrix: ");
-            row = int.Parse(Console.ReadLine());*/
-            string[,] mat = new string[5,5] { { "1", "0", "1", "0", "1" }, { "1", "1", "1", "0", "1" }, { "1", "0", "1", "1", "1" }, { "1", "0", "1", "1", "1" }, { "1", "0", "1", "1", "1" }, };
+            int row = 5;
+               Console.Write("Enter number of rows in the matrix: ");
+               row = int.Parse(Console.ReadLine());
+            string[,] mat = new string[row,row];// { { "1", "0", "1", "0", "1" }, { "1", "1", "1", "0", "1" }, { "1", "0", "1", "1", "1" }, { "1", "0", "1", "1", "1" }, { "1", "0", "1", "1", "1" }, };
             string[] ar = new string[row];
-           /* for (int i = 0; i < row; i++)
+            for (int i = 0; i < row; i++)
                
             {
                 Console.WriteLine("enter numbers(for more than one numbers use ','): ");
@@ -22,7 +22,7 @@ namespace Q7_35
                 {
                     mat[i, j] = ar[j];
                 }
-            }*/
+            }
             for (int i = 0; i < row; i++)
             {
                 for (int j = 0; j < row; j++)
