@@ -1,0 +1,10 @@
+D:\projects\C# programs\gitprograms\examples\example-projects\Q7_26\bin\Debug\netcoreapp2.1\Q7_26.deps.json
+D:\projects\C# programs\gitprograms\examples\example-projects\Q7_26\bin\Debug\netcoreapp2.1\Q7_26.runtimeconfig.json
+D:\projects\C# programs\gitprograms\examples\example-projects\Q7_26\bin\Debug\netcoreapp2.1\Q7_26.runtimeconfig.dev.json
+D:\projects\C# programs\gitprograms\examples\example-projects\Q7_26\bin\Debug\netcoreapp2.1\Q7_26.dll
+D:\projects\C# programs\gitprograms\examples\example-projects\Q7_26\bin\Debug\netcoreapp2.1\Q7_26.pdb
+D:\projects\C# programs\gitprograms\examples\example-projects\Q7_26\obj\Debug\netcoreapp2.1\Q7_26.csproj.CoreCompileInputs.cache
+D:\projects\C# programs\gitprograms\examples\example-projects\Q7_26\obj\Debug\netcoreapp2.1\Q7_26.AssemblyInfoInputs.cache
+D:\projects\C# programs\gitprograms\examples\example-projects\Q7_26\obj\Debug\netcoreapp2.1\Q7_26.AssemblyInfo.cs
+D:\projects\C# programs\gitprograms\examples\example-projects\Q7_26\obj\Debug\netcoreapp2.1\Q7_26.dll
+D:\projects\C# programs\gitprograms\examples\example-projects\Q7_26\obj\Debug\netcoreapp2.1\Q7_26.pdb
